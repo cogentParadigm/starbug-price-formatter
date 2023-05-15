@@ -1,0 +1,21 @@
+{
+  "name": "starbug/price-formatter",
+  "type": "starbug-library",
+  "description": "A price formatter interface and basic implementation.",
+  "keywords": ["Starbug"],
+  "license": "GPL-3.0-or-later",
+  "authors": [
+    {
+      "name": "Ali Gangji",
+      "homepage": "https://github.com/cogentParadigm"
+    }
+  ],
+  "require-dev": {
+    "starbug/devel": "^1.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Starbug\\Price\\": "src/"
+    }
+  }
+}

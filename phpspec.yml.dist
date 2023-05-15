@@ -1,0 +1,4 @@
+suites:
+  default:
+    namespace: Starbug\Price
+    psr4_prefix: Starbug\Price
