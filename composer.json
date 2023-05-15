@@ -10,6 +10,9 @@
       "homepage": "https://github.com/cogentParadigm"
     }
   ],
+  "extra": {
+    "namespace": "Starbug\\Price"
+  },
   "require-dev": {
     "starbug/devel": "^1.0"
   },
